@@ -1,6 +1,7 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+.*
+!.gitignore
+target/
+pom.xml.*
+release.properties
+*.log
+*.iml
